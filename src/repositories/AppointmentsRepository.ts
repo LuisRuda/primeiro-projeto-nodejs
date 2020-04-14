@@ -1,4 +1,5 @@
 import { isEqual } from 'date-fns';
+
 import Appointment from '../models/Appointment';
 
 // DTO: Data Transfer Object
